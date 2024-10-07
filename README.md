@@ -71,7 +71,3 @@ Feel free to explore, star 🌟 the repo, or suggest improvements. Let’s learn
 **Moses** - A software developer passionate about exploring the intersection between PHP and Golang in the context of algorithms and data structures.
 
 ---
-
-This README will serve as a good reference point for you and others following along. You can update it regularly as you add more days and weeks to the repo.
-
-How does that look?
